@@ -1,0 +1,26 @@
+{
+  "name": "gameherokubabylon",
+  "version": "1.0.0",
+  "description": "my first babylonjs game",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micbuffa/gameHerokuBabylon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micbuffa/gameHerokuBabylon/issues"
+  },
+  "homepage": "https://github.com/micbuffa/gameHerokuBabylon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
